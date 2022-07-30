@@ -5,7 +5,7 @@ This page is responsive so you can access it through your mobile.
 
 ## Features
 
-_ HTML for design
+- HTML for design
 - CSS & Bootstrap for styling and Icons.
 - Responsive webpage.
 - Background Images, Navigation control to navigate   over different pages, Hover on Images,paragraphs and details etc
